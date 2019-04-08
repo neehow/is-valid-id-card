@@ -7,7 +7,9 @@
 注意：身份证号符合规则，只是该身份证号符合国家标准中的规则，并不意味着该身份证号真实存在。
 
 ## Installation
+```
 npm install is-valid-id-card --save
+```
 
 ## Examples
 ```
