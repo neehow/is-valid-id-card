@@ -1,0 +1,24 @@
+{
+  "name": "is-valid-id-card",
+  "version": "1.0.0",
+  "description": "一个校验身份证号是否符合规则的方法。(A function to test if a Chinese ID card is valid.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neehow/is-valid-id-card.git"
+  },
+  "keywords": [
+    "身份证",
+    "身份证号",
+    "ID card"
+  ],
+  "author": "neehow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neehow/is-valid-id-card/issues"
+  },
+  "homepage": "https://github.com/neehow/is-valid-id-card#readme"
+}
