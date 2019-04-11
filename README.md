@@ -8,7 +8,8 @@
 
 ## Installation
 ```
-npm install is-valid-id-card --save
+npm install is-valid-id-card --save   
+也可以直接复制index.js中的方法定义，粘贴到需要的地方直接使用   
 ```
 
 ## Examples
