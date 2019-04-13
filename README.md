@@ -19,3 +19,5 @@ console.log(isValidIDCard('')) // false
 console.log(isValidIDCard('123456')) // false 
 console.log(isValidIDCard('11012119880808223x')) // true
 ```
+---
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
